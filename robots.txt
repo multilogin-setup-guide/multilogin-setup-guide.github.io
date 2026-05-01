@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://multilogin-setup-guide.github.io/sitemap.xml
